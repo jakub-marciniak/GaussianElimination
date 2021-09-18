@@ -1,2 +1,2 @@
-#Gaussian Elimination
+# Gaussian Elimination
 Gaussian elimination calculator
